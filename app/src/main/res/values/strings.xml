@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SurveyApp</string>
+
+    <string name="validation_empty_string">The answer is blank</string>
+    <string name="error_submission_fails">Submission fails.</string>
+    <string name="error_check_network_connection">Check your network connection</string>
+    <string name="error_server_error">Something went wrong...</string>
+    <string name="success_answer_submited">Your answer submitted!</string>
+    <string name="start_screen_welcome_username">Welcome, Username</string>
+    <string name="start_screen_check_survey">Check Survey</string>
+    <string name="survey_screen_score_indicator">%1$s submitted</string>
+    <string name="survey_screen_question_indicator">Question %1$s</string>
+    <string name="survey_screen_loading">Loading...</string>
+    <string name="survey_screen_no_available_questions_for_now">There is no available questions for now :)</string>
+    <string name="survey_screen_try_again">Try again</string>
+    <string name="survey_screen_submit">Submit</string>
+    <string name="survey_screen_prev">Prev</string>
+    <string name="survey_screen_next">Next</string>
+    <string name="survey_screen_go_back">Go Back</string>
+</resources>
