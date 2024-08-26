@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "gl.survey.app"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "gl.survey.app"
